@@ -5,11 +5,12 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Home - Juli&aacute;n Garc&iacute;a</title>
+  <title>Juli&aacute;n Garc&iacute;a</title>
   <meta name="author" content="Juli&aacute;n Garc&iacute;a">
 
   
-  <meta name="description" content=" Home Hello world. Tweet ">
+  <meta name="description" content="2013 hello
+Jun 21 2013 Recent Posts Hello GitHub Repos Status updating&#8230; @juliangarcia on GitHub $(document).ready(function(){ if (!window.jXHR &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +19,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://juliangarcia.github.io">
+  <link rel="canonical" href="http://juliangarcia.github.io/blog">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Juli&aacute;n Garc&iacute;a" type="application/atom+xml">
@@ -53,32 +54,83 @@
   <div id="main">
     <div id="content">
       <div>
+
 <article role="article">
+<div id="blog-archives">
   
-  <header>
-    <h1 class="entry-title">Home</h1>
+
+  
+  
     
-  </header>
+    <h2>2013</h2>
   
-  Hello world.
-  
-    <footer>
+    <article>
       
-      
-        <div class="sharing">
-  
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://juliangarcia.github.io/index.html" data-via="gamesevolving" data-counturl="http://juliangarcia.github.io/index.html" >Tweet</a>
-  
-  
+<h1><a href="/blog/2013/06/21/hello/">hello</a></h1>
+<time datetime="2013-06-21T23:09:00+02:00" pubdate><span class='month'>Jun</span> <span class='day'>21</span> <span class='year'>2013</span></time>
+
+
+    </article>
   
 </div>
-
-      
-    </footer>
-  
 </article>
-
 </div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/06/21/hello/">Hello</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  
+  <a href="https://github.com/juliangarcia">@juliangarcia</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'juliangarcia',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>On Delicious</h1>
+  <div id="delicious"></div>
+  <script type="text/javascript" src="http://feeds.delicious.com/v2/json/jagarciag?count=3&amp;sort=date&amp;callback=renderDeliciousLinks"></script>
+  <p><a href="http://delicious.com/jagarciag">My Delicious Bookmarks &raquo;</a></p>
+</section>
+
+
+
+
+  
+</aside>
 
     </div>
   </div>
@@ -89,6 +141,19 @@
 
 </footer>
   
+
+<script type="text/javascript">
+      var disqus_shortname = 'juliangarciaresearch';
+      
+        
+        var disqus_script = 'count.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
 
 
 
