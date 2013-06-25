@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Juli&aacute;n Garc&iacute;a]]></title>
-  <link href="http://juliangarcia.github.io/atom.xml" rel="self"/>
-  <link href="http://juliangarcia.github.io/"/>
-  <updated>2013-06-23T18:31:58+02:00</updated>
-  <id>http://juliangarcia.github.io/</id>
+  <link href="http://garciajulian.com/atom.xml" rel="self"/>
+  <link href="http://garciajulian.com/"/>
+  <updated>2013-06-25T22:17:19+02:00</updated>
+  <id>http://garciajulian.com/</id>
   <author>
     <name><![CDATA[Juli&aacute;n Garc&iacute;a]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[hello world]]></title>
-    <link href="http://juliangarcia.github.io/blog/2013/06/21/hello/"/>
+    <link href="http://garciajulian.com/blog/2013/06/21/hello/"/>
     <updated>2013-06-21T23:09:00+02:00</updated>
-    <id>http://juliangarcia.github.io/blog/2013/06/21/hello</id>
+    <id>http://garciajulian.com/blog/2013/06/21/hello</id>
     <content type="html"><![CDATA[<p>This blog will come alive soon.</p>
 ]]></content>
   </entry>
