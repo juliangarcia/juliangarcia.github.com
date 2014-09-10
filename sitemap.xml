@@ -1,47 +1,79 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-    <url>
-        <loc>http://garciajulian.com/blog/2013/06/21/hello/</loc>
-        <lastmod>2013-06-23T20:59:52+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://garciajulian.com/blog/archives/</loc>
-        <lastmod>2013-06-23T20:59:52+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://garciajulian.com/blog/</loc>
-        <lastmod>2013-06-23T20:59:52+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://garciajulian.com/cv/</loc>
-        <lastmod>2014-02-17T18:28:06+11:00</lastmod>
-    </url>
-    <url>
-        <loc>http://garciajulian.com/</loc>
-        <lastmod>2014-07-31T12:32:44+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://garciajulian.com/other/</loc>
-        <lastmod>2014-07-18T21:53:39+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://garciajulian.com/publications/</loc>
-        <lastmod>2014-07-31T12:34:52+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://garciajulian.com/research/</loc>
-        <lastmod>2014-07-22T10:43:23+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://garciajulian.com/robots.txt</loc>
-        <lastmod>2013-06-22T06:10:52+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://garciajulian.com/software/</loc>
-        <lastmod>2014-07-08T04:18:40+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://garciajulian.com/teaching/</loc>
-        <lastmod>2014-07-15T02:42:38+10:00</lastmod>
-    </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://garciajulian.com/blog/2013/06/21/hello/</loc>
+    
+    <lastmod>2013-06-21T23:09:00+10:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://garciajulian.com/blog/archives/</loc>
+    <lastmod>2014-09-10T12:33:26+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://garciajulian.com/blog/</loc>
+    <lastmod>2014-09-10T12:33:26+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://garciajulian.com/other/</loc>
+    <lastmod>2014-09-10T12:33:26+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://garciajulian.com/research/</loc>
+    <lastmod>2014-09-10T12:33:26+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://garciajulian.com/software/</loc>
+    <lastmod>2014-09-10T12:33:26+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://garciajulian.com/publications/</loc>
+    <lastmod>2014-09-10T12:33:26+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://garciajulian.com/teaching/</loc>
+    <lastmod>2014-09-10T12:33:26+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://garciajulian.com/</loc>
+    <lastmod>2014-09-10T12:33:26+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://garciajulian.com/cv/</loc>
+    <lastmod>2014-09-10T12:33:26+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
 </urlset>
